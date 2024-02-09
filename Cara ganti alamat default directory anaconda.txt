@@ -1,0 +1,10 @@
+1. Salin alamat default atau alamat dari project yang akan kita simpan
+
+2. Buka CMD dan ketikkan perintah ini
+jupyter notebook --notebook-dir="alamat_directory"
+contohnya
+jupyter notebook --notebook-dir="C:\\Users\\Imran\\Desktop\\jupytercommand"
+
+3. Setelah itu enter dan alamat default dari anaconda sudah dipindah
+
+4. Silahkan mencoba
